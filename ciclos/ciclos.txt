@@ -1,0 +1,3 @@
+En este directorio de mierda aprendere sobre 
+el uso de los cilos for y while
+
